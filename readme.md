@@ -45,8 +45,8 @@ After preparing the needed components:
     * update_cart_cache.php
     * update_cart.php
 3. Insert the webhook key from the Integration platform to the `$integratelyWebhook` variable located in success.php
-4. Go to your the website.
-
+4. Go to the website.
+> Note: When adding a new product in the product catalog, visit the Landing page (Index.php) after adding the product to have it registered in the cache which is then used to populate the Products page.
 ---
 
 
